@@ -9,6 +9,8 @@
     This file sets up the CMake build system for the cpp-oop-review project, ensuring compatibility
     with C++26 and enforcing a minimum required CMake version of 4.3.1. It includes checks for
     compiler support and defines the necessary build targets and properties.
+
+    This project is intended for educational purposes, focusing on object-oriented programming concepts in C++.
 ]]
 
 # Minimum required CMake version for the upgraded baseline
