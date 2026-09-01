@@ -20,7 +20,8 @@ endif()
 
 # Source files
 set(SOURCES
-        main.cpp)
+        main.cpp
+        src/Resource.cpp)
 
 # Define the executable target
 add_executable(cpp-oop-review ${SOURCES})
